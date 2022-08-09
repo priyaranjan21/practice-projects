@@ -1,0 +1,9 @@
+Add files to respository
+1.Create a new repo.
+2.open git bash in current file directory using git bash here.
+3.$ git init
+4.$ git status
+5.$ git add .
+6.$ git commit -m "First Commmit".
+7.$ git remote add origin "your url name".
+8.$ git push -u origin master.
