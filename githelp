@@ -8,3 +8,4 @@ Add files to respository
 7.$ git remote add origin "your url name".
 8.$ git push -u origin master.
 9.$ type "exit" to logout;
+git config --global init.defaultBranch <name>
